@@ -12,6 +12,7 @@
         <module>target-app</module>
         <module>runtime-agent</module>
         <module>redis</module>
+        <module>SPI</module>
     </modules>
 
     <properties>
@@ -26,6 +27,4 @@
             <version>3.28.0-GA</version>
         </dependency>
     </dependencies>
-
-
 </project>
